@@ -2,7 +2,7 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
+  subtitle: 'Available: digital or in person'
   content: 'Interested, curious? We''d want to hear from you. We are located in Ottawa,
     Canada on unceded Algonquin land. Call us or schedule a visit in person or online. '
   contact_list:
@@ -11,7 +11,7 @@ contact:
   - icon: ti-mobile
     info: 'Phone: +1 613 755 4007'
   - icon: ti-email
-    info: 'Email: info[at] secdev.com'
+    info: 'Email: info [at] secdev.com'
   contact_form:
     enable: true
     form_action: "#"
