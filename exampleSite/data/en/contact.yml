@@ -3,9 +3,8 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: 'Interested, curious? We''d want to hear from you. We are located in Ottawa,
+    Canada on unceded Algonquin land. Call us or schedule a visit in person or online. '
   contact_list:
   - icon: ti-location-pin
     info: 950 Gladstone, Ottawa, Ontarion CANADA K1Y 3E6
