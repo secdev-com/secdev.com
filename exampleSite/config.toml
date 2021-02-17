@@ -1,4 +1,4 @@
-baseURL = "https://secdev.com"
+baseURL = "\\"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
