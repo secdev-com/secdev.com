@@ -3,7 +3,7 @@ disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "secdev.com"
 themesDir = "../.."
 title = "SecDev.com"
 [Languages.en]
