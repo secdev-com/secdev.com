@@ -1,16 +1,25 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: What We Do
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Risk & Opportunity
+    content: We quantify risk, distilling sense from disorder and rapidly identify
+      solutions. We work with public sector, corporate and nonprofit leaders to accelerate
+      safe and secure digital transformation. Our business is to enable smarter decisions
+      by helping clients manage risk and unlock opportunity in a digital era.
+  - icon: ti-cup
+    title: Digital Resilience
+    content: We leverage open source, social media  and cyber intelligence to deliver
+      high-resolution insight. For more than a decade we've designed automated data
+      science to forecast disruption and navigate uncertainty. We operate at the intersection
+      of geopolitics and technology to drive smarter decision-making.
+  - icon: ti-thought
+    title: Analytics
+    content: 'We deliver leading-edge analytics for major national and city governments,
+      leading financial and technology companies, and international organizations.
+      We are relentlessly curious, equally comfortable crunching Big Data, building
+      simulations, deciphering malicious code or conducting field research in global
+      hot spots. Our commitment is to rapidly deliver high quality, real-time and
+      tailored solutions that exceed the exacting standards of our clients.  '
