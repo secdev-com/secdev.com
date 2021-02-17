@@ -57,8 +57,8 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: media
-public_path: https://new.secdev.com.s3.ca-central-1.amazonaws.com
+upload_dir: exampleSite/static/images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
