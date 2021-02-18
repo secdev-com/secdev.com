@@ -5,14 +5,14 @@ feature:
   image_webp: "/images/bubbles.webP"
   title: Next Generation Risk Analytics
   content: 'SecDev is a next generation analytics firm focused on geopolitical risk
-    and digital transformation. We fuse expert knowledge with data science and artificial
-    intelligence to empower smarter decisions for our clients.
+    data driven transformation. We fuse expert knowledge with applied data science
+    to empower smarter decisions for our clients.
 
 '
   feature_item:
   - title: Data at scale
     icon: ti-world
-    content: We leverage data
+    content: We use data at scale to develop insights.
   - title: Global Expertise
     icon: ti-world
     content: We find the best experts on any topic.
