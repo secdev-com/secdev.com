@@ -22,14 +22,13 @@ portfolio:
     categories: []
     content: Working with the World Bank to develop the concept of Digital Resilience
     link: "#"
-  - name: Bottol Label
+  - name: Digital Risk in South Asia
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
-    categories:
-    - photography
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    categories: []
+    content: Working with the UNDP to develop early warning systems for on-line harms
+      in Bangladesh, Sri Lanka and the Maldives
+    link: ''
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
