@@ -3,7 +3,7 @@ feature:
   enable: true
   image: "/images/bubbles.jpg"
   image_webp: "/images/bubbles.webP"
-  title: Next Generation Risk Analytics
+  title: Data-driven Risk Analytics
   content: 'SecDev is a next generation analytics firm focused on geopolitical risk
     data driven transformation. We fuse expert knowledge with applied data science
     to empower smarter decisions for our clients.
@@ -27,5 +27,6 @@ feature:
       approach that focuses on risk factors, preserves privacy and avoids harm.
   - title: Applied Intelligence
     icon: ti-stats-up
-    content: We combine data science with human intelligence find practical solutions
-      to challenging problems.
+    content: We take and practical approach to the potential of artificial intelligence
+      by combining machine learning, data science and human intelligence to find practical
+      solutions to challenging problems.
