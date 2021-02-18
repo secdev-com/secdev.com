@@ -4,8 +4,8 @@ portfolio:
   title: Our Work
   portfolio_item:
   - name: Digital Risk Foresight
-    image: ''
-    image_webp: ''
+    image: "/images/businessman-stop-domino-effect-risk-management-and-insurance-concept-picture-id1138429304.jpg"
+    image_webp: "/images/businessman-stop-domino-effect-risk-management-and-insurance-concept-picture-id1138429304.webP"
     categories:
     - digital risk
     - digital transformation
