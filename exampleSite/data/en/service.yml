@@ -3,14 +3,13 @@ service:
   enable: true
   title: What We Do
   service_item:
-  - name: " Risk & Opportunity"
+  - name: Discover
     icon: ti-world
-    content: Data-driven analysis of the big trends reshaping and rewiring our world.
-      We work with national and city governments, financial institutions and some
-      of the world’s largest technology companies. We assist international agencies
-      ranging from the United Nations to the World Bank. Drawing on open and private
-      sources and data science, we provide our clients with the deep learning, insight
-      and direction they need to profit in a complex world.
+    content: We quantify risk, distilling sense from disorder and rapidly identify
+      solutions. We work with public sector, corporate and nonprofit leaders to accelerate
+      digital transformation and strengthen digital resilience. Our business is to
+      enable smarter decisions by helping clients manage risk and unlock opportunity
+      in a digital era.
   - name: Wicked Problems
     icon: ti-blackboard
     content: On a bad day when things go really wrong we advise senior leadership
