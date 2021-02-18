@@ -5,12 +5,8 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Discover
-    content: 'The world is swimming in data. The sheer scale and speed at which information
-      is flowing is rewiring our politics, economics and the way nations, companies
-      and societies interact. Digital transformation is generating enormous opportunities.
-      But it is also exposing dangerous vulnerabilities. Distinguishing signal from
-      noise is more important than ever. Those who fail to digitize risk drowning
-      altogether. '
+    content: The world is swimming in data. Distinguishing signal from noise is more
+      important than ever.
   - icon: ti-cup
     title: Innovate
     content: 'Our countries, corporations and communities are being profoundly disrupted
