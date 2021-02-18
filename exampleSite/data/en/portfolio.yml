@@ -4,8 +4,8 @@ portfolio:
   title: Our Work
   portfolio_item:
   - name: Zeropoint Security
-    image: ''
-    image_webp: ''
+    image: "/images/zeropoint-4sdg.jpg"
+    image_webp: "/images/zeropoint-4sdg.webp"
     categories:
     - digital risk
     - cybersecurity
