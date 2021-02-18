@@ -13,12 +13,13 @@ feature:
   - title: Data at scale
     icon: ti-world
     content: We use data at scale to develop insights.
-  - title: Global Expertise
+  - title: Expertise
     icon: ti-world
-    content: We find the best experts on any topic.
+    content: We harness expertise to enable rapid sense-making
   - title: Ethical approach
     icon: ti-panel
-    content: We are ethical
+    content: We are guided by ethical principals. We focus on risk factors and not
+      people.
   - title: Artificial Intelligence
     icon: ti-stats-up
     content: We use AI and ML
