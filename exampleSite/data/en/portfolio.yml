@@ -8,6 +8,7 @@ portfolio:
     image_webp: ''
     categories:
     - digital risk
+    - digital transformation
     content: Monthly insights on digital risk
     link: https://digital.secdev.com/digital-foresight
   - name: Urban Pandemic Index
