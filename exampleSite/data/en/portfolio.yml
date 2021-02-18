@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Work
   portfolio_item:
+  - name: Digital Risk Foresight
+    image: ''
+    image_webp: ''
+    categories:
+    - digital risk
+    content: Monthly insights on digital risk
+    link: https://digital.secdev.com/digital-foresight
   - name: Urban Pandemic Index
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
