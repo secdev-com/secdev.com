@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: "/images/side-bar-1.jpg"
+  image_webp: "/images/side-bar-1.webp"
   title: We are a Digital Risks consultancy
   content: 'SecDev  helps clients prepare for, respond to, and build resilience against
     digital disruption. We are an agile research and innovation firm helping clients
