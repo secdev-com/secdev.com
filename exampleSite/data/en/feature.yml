@@ -13,12 +13,9 @@ feature:
   - title: Expertise
     icon: ti-world
     content: We find the best experts on any topic.
-  - title: Innovate
+  - title: Ethical approach
     icon: ti-panel
-    content: We work at the intersection of geopolitics and technology leveraging
-      open source, social, cyber and spacial intelligence to develop leading edge
-      methods that harness expert knowledge and advanced data science to forecast
-      disruption and provide early-warning and real-time sense-making for our partners.
+    content: We are ethical
   - title: Communicate
     icon: ti-stats-up
     content: We specialize in communicating complexity at all levels of an organization.
