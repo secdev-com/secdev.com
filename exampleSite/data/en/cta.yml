@@ -1,8 +1,8 @@
 ---
 cta:
   enable: false
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: "/images/purple-band-1.jpg"
+  bg_image_webp: "/images/purple-band-1.webp"
   title: Do you have a purple mindset?
   content: 'We are seeking creative, curious thinkers to solve wicked geopolitical,
     social, and business problems for our diverse range of clients. People with a
