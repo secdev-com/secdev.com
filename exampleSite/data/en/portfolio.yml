@@ -26,8 +26,10 @@ portfolio:
     categories:
     - Eurasia
     - digital transformation
+    - Work bank
+    - digital risk
     content: Working with the World Bank to develop the concept of Digital Resilience
-    link: "#"
+    link: ''
   - name: Digital Risk in South Asia
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
