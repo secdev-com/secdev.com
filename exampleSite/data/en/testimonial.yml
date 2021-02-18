@@ -4,24 +4,29 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: Bell Canada
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+  - name: The Examiner, from "'GhostNet'invasion requires a global response"
+    image: ''
+    image_webp: ''
     date: ''
-    content: We trust visionaries at SecDev  to solve the future's most complex security
-      challenges, to trailblaze the path through the geo-politics of cyberspace, identify
-      emerging threats, produce the most advanced analytical products in this space
-      and deliver elegant solutions that meet the demands of the country's largest
-      telecommunications carrier..
+    content: '"The Canadian who busted the GhostNet"'
+  - name: Bell Canada
+    image: ''
+    image_webp: ''
+    date: ''
+    content: '"We trust visionaries at SecDev  to solve the future''s most complex
+      security challenges, to trailblaze the path through the geo-politics of cyberspace,
+      identify emerging threats, produce the most advanced analytical products in
+      this space and deliver elegant solutions that meet the demands of the country''s
+      largest telecommunications carrier".'
   - name: Klaus Schwab, Founder/President World Economic Forum
     image: ''
     image_webp: ''
     date: ''
-    content: "'Yesterday I received Terra Incognita: I was planning just to have a
+    content: '"Yesterday I received Terra Incognita: I was planning just to have a
       first look at it in the evening, but became so fascinated and engaged that I
       ended up staying up to read it until 1.00 AM. I am wholly impressed by the comprehensive
       approach it takes. It’s a book which truly deserves great public attention as
-      it explains cause and effect relationships in such a clear manner.' "
+      it explains cause and effect relationships in such a clear manner." '
   - name: 'Anne-Marie Slaughter, CEO New America '
     image: ''
     image_webp: ''
