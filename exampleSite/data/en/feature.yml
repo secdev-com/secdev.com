@@ -12,10 +12,15 @@ feature:
   feature_item:
   - title: Data at scale
     icon: ti-world
-    content: We use data at scale to develop insights.
+    content: We leverage the power of data to create powerful insights and build understanding
+      of complex phenomena. We harness opens source, commercial, spacial and cyber
+      data at scale to build bespoke dashboards and visualizations to drive deeper
+      insights.
   - title: Expertise
     icon: ti-world
-    content: We harness expertise to enable rapid sense-making
+    content: We bring expertise to every challenge large or small. Though our global
+      network we put the best minds to work bringing exceptional insight, experience
+      and talent to enable raise sense-making and solutions.
   - title: Ethical approach
     icon: ti-panel
     content: We are guided by ethical principals our work. We apply a public heath
