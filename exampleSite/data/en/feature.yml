@@ -18,8 +18,9 @@ feature:
     content: We harness expertise to enable rapid sense-making
   - title: Ethical approach
     icon: ti-panel
-    content: We are guided by ethical principals. We focus on risk factors and not
-      people.
-  - title: Artificial Intelligence
+    content: We are guided by ethical principals our work. We apply a public heath
+      approach that focuses on risk factors, preserves privacy and avoids harm.
+  - title: Applied Intelligence
     icon: ti-stats-up
-    content: We use AI and ML
+    content: We combine data science with human intelligence find practical solutions
+      to challenging problems.
