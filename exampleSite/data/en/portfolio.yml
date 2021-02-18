@@ -31,7 +31,12 @@ portfolio:
   - name: Digital Risk in South Asia
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
-    categories: []
-    content: Working with the UNDP to develop early warning systems for on-line harms
-      in Bangladesh, Sri Lanka and the Maldives
+    categories:
+    - data science
+    - digital risk
+    - violent extremsm
+    - South Asia
+    - UNDP
+    content: Developing early warning systems for on-line harms in Bangladesh, Sri
+      Lanka and the Maldives
     link: ''
