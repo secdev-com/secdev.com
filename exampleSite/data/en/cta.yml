@@ -3,10 +3,15 @@ cta:
   enable: false
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: Great Design & Incredible Features
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
-    odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
+  title: Do you have a purple mindset?
+  content: 'We are seeking creative, curious thinkers to solve wicked geopolitical,
+    social, and business problems for our diverse range of clients. People with a
+    purple mindset who can combine data science, structured thinking, cultural knowledge,
+    social science skills, and a deep sense of empathy. If you understand how to work
+    with data and are acutely sensitive to the complexity and messiness of wicked
+    problems that require out-of-the-box thinking and solutions — this is your opportunity
+    of a lifetime.  '
   button:
     enable: true
-    label: Start a project with us
+    label: I want adventure!
     link: "#contact"
