@@ -12,13 +12,6 @@ feature:
 
 '
   feature_item:
-  - title: Public Speaking
-    icon: ''
-    content: Evidence-based insight on the big changes underway to global politics,
-      economics and cyberspace. SecDev's roster includes repeat speakers at TED Global,
-      the World Economic Forum at Davos, Aspen, Singularity University's Global Summit,
-      the World Governance Forum, the Skoll Summit, CYBERSEC, Smart City Expo and
-      dozens of other venues.
   - title: Risk & Opportunity
     icon: ti-world
     content: Data-driven analysis of the big trends reshaping and rewiring our world.
@@ -41,6 +34,13 @@ feature:
       require a complex and adaptive understanding of digital technologies, organizational
       process, and strategic communication. We help our clients navigate uncertainty
       and find opportunity in risk.
+  - title: Public Speaking
+    icon: ''
+    content: Evidence-based insight on the big changes underway to global politics,
+      economics and cyberspace. SecDev's roster includes repeat speakers at TED Global,
+      the World Economic Forum at Davos, Aspen, Singularity University's Global Summit,
+      the World Governance Forum, the Skoll Summit, CYBERSEC, Smart City Expo and
+      dozens of other venues.
   - title: Learning +
     icon: ti-announcement
     content: Empowering decision-makers with the insights and skills required to anticipate
