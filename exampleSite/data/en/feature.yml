@@ -3,14 +3,23 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: We’re An Analog Ad Agency
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  title: We are a Digital Risks consultancy
+  content: 'We are an agile research and innovation firm helping clients navigate
+    digital-geopolitical risk and digital transformation. SecDev builds value through
+    innovation in strategic foresight, data science & urban analytics. We are fluent
+    in technology, global in scope and singularly results-oriented. SecDev empowers
+    clients to make informed choices that deliver value in the the digital-urban age.
+
+'
   feature_item:
-  - title: SEO Optimized
+  - title: Risk & Opportunity
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Data-driven analysis of the big trends reshaping and rewiring our world.
+      We work with national and city governments, financial institutions and some
+      of the world's largest technology companies. We assist international agencies
+      ranging from the United Nations to the World Bank. Drawing on open and private
+      sources and data science, we provide our clients with the deep learning, insight
+      and direction they need to profit in a complex world.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
