@@ -7,19 +7,25 @@ portfolio:
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
-    - covid
+    - data science
+    - urban risk
     content: building a dashboard to help cities plan for pandemic response
     link: ''
   - name: Mapping Digital Ecosystems in Eurasia
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories: []
+    categories:
+    - data science
+    - platform risk
+    - eurasia
     content: Monitoring the digital ecosystem in Eurasia
     link: ''
   - name: Digital Resilence
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
-    categories: []
+    categories:
+    - Eurasia
+    - digital transformation
     content: Working with the World Bank to develop the concept of Digital Resilience
     link: "#"
   - name: Digital Risk in South Asia
