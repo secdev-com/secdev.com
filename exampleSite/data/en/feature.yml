@@ -10,8 +10,8 @@ feature:
 
 '
   feature_item:
-  - title: Data and scale
-    icon: ''
+  - title: Data at scale
+    icon: ti-world
     content: We leverage data
   - title: Global Expertise
     icon: ti-world
