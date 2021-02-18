@@ -11,10 +11,13 @@ service:
       ranging from the United Nations to the World Bank. Drawing on open and private
       sources and data science, we provide our clients with the deep learning, insight
       and direction they need to profit in a complex world.
-  - name: Responsive Design
+  - name: Diagnostics & Strategy
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Understanding past, present and future threats to our client’s digital
+      assets. We apply an intelligence-led perspective to mapping vulnerabilities
+      in critical infrastructure, banking and pension funds, energy companies and
+      front-line international development organizations. We provide rapid and actionable
+      findings for technical experts and straight-forward insights for C-suite executives.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
