@@ -1,21 +1,20 @@
 ---
 portfolio:
-  enable: false
-  title: Our Works
+  enable: true
+  title: Our Work
   portfolio_item:
-  - name: Tag Design
+  - name: Urban Pandemic Index
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
-  - name: Sound system
+    - covid
+    content: building a dashboard to help cities plan for pandemic response
+    link: ''
+  - name: Digital Ecosystems in Eurasia
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: Monitoring the digital ecosystem in Eurasia
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
