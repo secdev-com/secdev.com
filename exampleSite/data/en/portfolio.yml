@@ -12,8 +12,8 @@ portfolio:
     content: Monthly insights on digital risk
     link: https://digital.secdev.com/digital-foresight
   - name: Urban Pandemic Index
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: "/images/pandemic-index.jpg"
+    image_webp: "/images/pandemic-index.webp"
     categories:
     - data science
     - urban risk
