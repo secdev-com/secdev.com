@@ -8,6 +8,8 @@ skill:
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image: images/about/company-growth.webp
   skill_item:
+  - name: General Nerdiness
+    percent: 100%
   - name: Multilingual/Multicultural Skills
     percent: 99%
   - name: Advanced research degree and foreign travel
