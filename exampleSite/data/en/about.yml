@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: About Us
+  title: Our Value
   about_item:
   - icon: ti-ruler-pencil
     title: Discovery
