@@ -4,7 +4,7 @@ feature:
   image: "/images/side-bar-1.jpg"
   image_webp: "/images/side-bar-1.webp"
   title: We are
-  content: 'SecDev is a  next generation analytics firm focused on geopolitical risk
+  content: 'SecDev is a next generation analytics firm focused on geopolitical risk
     and digital transformation. We blend expert knowledge with data science and artificial
     intelligence to empower smarter decisions for out clients.
 
@@ -12,13 +12,11 @@ feature:
   feature_item:
   - title: Discover
     icon: ti-world
-    content: The world is swimming in data. Distinguishing signal from noise is more
-      important than ever. Those who fail to digitize risk drowning altogether. We
-      quantify risk, distilling sense from disorder and rapidly identify solutions.
-      We work with public sector, corporate and nonprofit leaders to accelerate digital
-      transformation and strengthen digital resilience. Our business is to enable
-      smarter decisions by helping clients manage risk and unlock opportunity in a
-      digital era.
+    content: We quantify risk, distilling sense from disorder and rapidly identify
+      solutions. We work with public sector, corporate and nonprofit leaders to accelerate
+      digital transformation and strengthen digital resilience. Our business is to
+      enable smarter decisions by helping clients manage risk and unlock opportunity
+      in a digital era.
   - title: Innovate
     icon: ti-panel
     content: Countries, corporations and communities are being profoundly disrupted
