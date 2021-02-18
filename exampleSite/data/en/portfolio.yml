@@ -3,6 +3,14 @@ portfolio:
   enable: true
   title: Our Work
   portfolio_item:
+  - name: Zeropoint Security
+    image: ''
+    image_webp: ''
+    categories:
+    - digital risk
+    - cybersecurity
+    content: high assurance cybersecurity
+    link: https://www.zeropointsecurity.com
   - name: Digital Risk Foresight
     image: "/images/businessman-stop-domino-effect-risk-management-and-insurance-concept-picture-id1138429304.jpg"
     image_webp: "/images/businessman-stop-domino-effect-risk-management-and-insurance-concept-picture-id1138429304.webP"
