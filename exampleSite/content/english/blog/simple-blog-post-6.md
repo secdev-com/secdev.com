@@ -1,8 +1,8 @@
 ---
 title: Jihadist Networks Dig In on Social Media Across Central Asia
 date: 2020-11-20T00:00:00-05:00
-image_webp: "/images/collage-v6-1-750x330.webp"
-image: "/images/collage-v6-1-750x330.jpg"
+image_webp: "/images/kali-1.webp"
+image: "/images/kali-1.png"
 author: Kumar Bekbolotov, Robert Muggah, Rafal Rohozinski
 description: Almost 500 extremist channels on Telegram, VKontakte, and other networks
   spread propaganda and vie for recruits. Most of them have ties to the Islamic State.
