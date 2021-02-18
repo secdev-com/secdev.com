@@ -18,10 +18,13 @@ service:
       in critical infrastructure, banking and pension funds, energy companies and
       front-line international development organizations. We provide rapid and actionable
       findings for technical experts and straight-forward insights for C-suite executives.
-  - name: Media &amp; Advertisement
+  - name: Wicked Problems
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: On a bad day when things go really wrong we advise senior leadership
+      and technical teams on a crisis course of action. We are there when wicked problems
+      require a complex and adaptive understanding of digital technologies, organizational
+      process, and strategic communication. We help our clients navigate uncertainty
+      and find opportunity in risk.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
