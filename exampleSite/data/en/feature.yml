@@ -3,7 +3,7 @@ feature:
   enable: true
   image: "/images/side-bar-1.jpg"
   image_webp: "/images/side-bar-1.webp"
-  title: We are
+  title: Next Generation Risk Analytics
   content: 'SecDev is a next generation analytics firm focused on geopolitical risk
     and digital transformation. We blend expert knowledge with data science and artificial
     intelligence to empower smarter decisions for out clients.
