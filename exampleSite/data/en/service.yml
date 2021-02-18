@@ -17,7 +17,13 @@ service:
       SecDev is committed to converting ideas into action. We have developed an arsenal of quantitative tools to better analyze conventional and social media at a granular level. In 2021, the data science team developed a vulnerability index and data visualization to track pandemic preparedness and recovery in cities ranging from Amsterdam and Bristol to Chicago and Los Angeles and helped stand-up a cyber-defence capability to support hospitals, clinics and laboratories to protect themselves from cyber attack.
   - name: Communicate
     icon: ti-world
-    content: We believe that knowledge is empowerment that leads to smarter decision
+    content: "We believe that knowledge is empowerment that leads to smarter decision
       making.  We are regularly in the media,  TED, World Economy Forum, United Nations
       and in the boardrooms the Fortune 500. Superior analytical and communications
-      skills are what sets us apart.
+      skills are what sets us apart.\n\nIn 2021, the team will speak on issues ranging
+      from smart cities, social media platform governance and the digital economy
+      to pandemic preparedness and climate action at the world’s top venues ranging
+      from Singularity to the World Economic Forum.  SecDev also leads private and
+      curated briefings for C-suite  executives and corporate board members in partnership
+      with leading global experts in the digital rights, defence, development, intelligence
+      and technology sectors.  "
