@@ -13,13 +13,15 @@ testimonial:
       emerging threats, produce the most advanced analytical products in this space
       and deliver elegant solutions that meet the demands of the country's largest
       telecommunications carrier..
-  - name: Mark Dinn
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Klaus Schwab, Founder/President World Economic Forum
+    image: ''
+    image_webp: ''
+    date: 1 January 2021
+    content: "'Yesterday I received Terra Incognita: I was planning just to have a
+      first look at it in the evening, but became so fascinated and engaged that I
+      ended up staying up to read it until 1.00 AM. I am wholly impressed by the comprehensive
+      approach it takes. It’s a book which truly deserves great public attention as
+      it explains cause and effect relationships in such a clear manner.' "
   - name: Lemos Kail
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
