@@ -10,6 +10,9 @@ feature:
 
 '
   feature_item:
+  - title: Data and scale
+    icon: ''
+    content: We leverage data
   - title: Global Expertise
     icon: ti-world
     content: We find the best experts on any topic.
