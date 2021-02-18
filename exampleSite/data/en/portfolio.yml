@@ -16,13 +16,11 @@ portfolio:
     categories: []
     content: Monitoring the digital ecosystem in Eurasia
     link: ''
-  - name: Clock Product
+  - name: Digital Resilence
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: Working with the World Bank to develop the concept of Digital Resilience
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
