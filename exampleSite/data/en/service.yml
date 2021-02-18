@@ -23,31 +23,3 @@ service:
       digital transformation and strengthen digital resilience. Our business is to
       enable smarter decisions by helping clients manage risk and unlock opportunity
       in a digital era.
-  - name: Wicked Problems
-    icon: ti-blackboard
-    content: On a bad day when things go really wrong we advise senior leadership
-      and technical teams on a crisis course of action. We are there when wicked problems
-      require a complex and adaptive understanding of digital technologies, organizational
-      process, and strategic communication. We help our clients navigate uncertainty
-      and find opportunity in risk.
-  - name: Diagnostics & Strategy
-    icon: ti-layout
-    content: Understanding past, present and future threats to our client’s digital
-      assets. We apply an intelligence-led perspective to mapping vulnerabilities
-      in critical infrastructure, banking and pension funds, energy companies and
-      front-line international development organizations. We provide rapid and actionable
-      findings for technical experts and straight-forward insights for C-suite executives.
-  - name: Public Speaking
-    icon: ti-palette
-    content: Evidence-based insight on the big changes underway to global politics,
-      economics and cyberspace. SecDev’s roster includes repeat speakers at TED Global,
-      the World Economic Forum at Davos, Aspen, Singularity University’s Global Summit,
-      the World Governance Forum, the Skoll Summit, CYBERSEC, Smart City Expo and
-      dozens of other venues.
-  - name: " Learning +"
-    icon: ti-package
-    content: Empowering decision-makers with the insights and skills required to anticipate
-      how digital disruption will affect their work. We offer targeted training and
-      short courses on cybersecurity, digital economy and smart cities. Customizable
-      and in-house training opportunities are also available on-demand, including
-      curated experiences on smart and resilient cities.
