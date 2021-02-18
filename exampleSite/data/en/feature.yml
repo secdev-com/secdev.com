@@ -19,13 +19,10 @@ feature:
       in a digital era.
   - title: Innovate
     icon: ti-panel
-    content: Countries, corporations and communities are being profoundly disrupted
-      by a data revolution. We operate at the intersection of geopolitics and technology
-      leveraging open source, social, cyber and spacial intelligence to drive smarter
-      decision-making. For more than a decade we’ve developed leading edge methods
-      that harness expert knowledge and advanced data science to forecast disruption
-      and navigate uncertainty and provide early-warning and real-time sense-making
-      for our partners.
+    content: We work at the intersection of geopolitics and technology leveraging
+      open source, social, cyber and spacial intelligence to develop leading edge
+      methods that harness expert knowledge and advanced data science to forecast
+      disruption and provide early-warning and real-time sense-making for our partners.
   - title: Communicate
     icon: ti-stats-up
     content: Unlocking the potential of insights depends on identifying risks and
