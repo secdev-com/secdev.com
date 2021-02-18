@@ -3,14 +3,10 @@ feature:
   enable: true
   image: "/images/side-bar-1.jpg"
   image_webp: "/images/side-bar-1.webp"
-  title: We are a Digital Risks consultancy
-  content: 'SecDev  helps clients prepare for, respond to, and build resilience against
-    digital disruption. We are an agile research and innovation firm helping clients
-    navigate digital-geopolitical risk and digital transformation. SecDev builds value
-    through innovation in strategic foresight, data science & urban analytics. We
-    are fluent in technology, global in scope and singularly results-oriented. SecDev
-    empowers clients to make informed choices that deliver value in the the digital-urban
-    age.
+  title: We are
+  content: 'SecDev is a  next generation analytics firm focused on geopolitical risk
+    and digital transformation. We blend expert knowledge with data science and artificial
+    intelligence to empower smarter decisions for out clients.
 
 '
   feature_item:
