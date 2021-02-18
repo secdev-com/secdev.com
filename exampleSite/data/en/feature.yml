@@ -14,14 +14,15 @@ feature:
 
 '
   feature_item:
-  - title: Risk & Opportunity
+  - title: Discover
     icon: ti-world
-    content: Data-driven analysis of the big trends reshaping and rewiring our world.
-      We work with national and city governments, financial institutions and some
-      of the world's largest technology companies. We assist international agencies
-      ranging from the United Nations to the World Bank. Drawing on open and private
-      sources and data science, we provide our clients with the deep learning, insight
-      and direction they need to profit in a complex world.
+    content: The world is swimming in data. Distinguishing signal from noise is more
+      important than ever. Those who fail to digitize risk drowning altogether. We
+      quantify risk, distilling sense from disorder and rapidly identify solutions.
+      We work with public sector, corporate and nonprofit leaders to accelerate digital
+      transformation and strengthen digital resilience. Our business is to enable
+      smarter decisions by helping clients manage risk and unlock opportunity in a
+      digital era.
   - title: Diagnostics & strategy
     icon: ti-panel
     content: 'Understanding past, present and future threats to our client''s digital
