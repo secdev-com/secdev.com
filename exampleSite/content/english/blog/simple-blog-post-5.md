@@ -4,7 +4,7 @@ date: 2021-01-29T00:00:00-05:00
 image_webp: "/images/huawei.webp"
 image: "/images/huawei.jpg"
 author: Rafal Rohozinski
-description: This is meta description
+description: Huawei's charm offensive
 
 ---
 This month, Canada received a contribution to its cybersecurity policy debate from an unexpected source — a Chinese company banned in several countries over allegations of cyberespionage. On January 21, Huawei released [_Cyber Security and Data Privacy: Key Considerations for Policymakers_](https://www-file.huawei.com/-/media/corporate/Local-site/ca/images/2021/cyber-security-and-data-privacy_en.pdf), a report written by the German consultancy Roland Berger. The report identifies seven policy challenges, drawn principally from previous studies in Canada’s own cybersecurity strategy, and includes a section on Canada’s data protection ecosystem.
