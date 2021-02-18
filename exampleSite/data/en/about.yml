@@ -5,22 +5,20 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Discover
-    content: The world is swimming in data. Distinguishing signal from noise is more
-      important than ever. Those who fail to digitize risk drowning altogether.  We
-      quantify risk, distilling sense from disorder and rapidly identify solutions.
-      We work with public sector, corporate and nonprofit leaders to accelerate digital
-      transformation and strengthen digital resilience. Our business is to enable
-      smarter decisions by helping clients manage risk and unlock opportunity in a
-      digital era.
+    content: 'The world is swimming in data. The sheer scale and speed at which information
+      is flowing is rewiring our politics, economics and the way nations, companies
+      and societies interact. Digital transformation is generating enormous opportunities.
+      But it is also exposing dangerous vulnerabilities. Distinguishing signal from
+      noise is more important than ever. Those who fail to digitize risk drowning
+      altogether. '
   - icon: ti-cup
     title: Innovate
-    content: 'Countries, corporations and communities are being profoundly disrupted
-      by a data revolution. We operate at the intersection of geopolitics and technology
-      leveraging open source,  social, cyber and spacial intelligence to  drive smarter
-      decision-making. For more than a decade we’ve developed leading edge methods
-      that harness expert knowledge and advanced data science to forecast disruption
-      and navigate uncertainty and provide early-warning and real-time sense-making
-      for our partners. '
+    content: 'Our countries, corporations and communities are being profoundly disrupted
+      by a data revolution. Digitization is driven by unprecedented increases in raw
+      computing power combined with the rapid evolution of artificial intelligence,
+      remote sensing and data fusion technologies. With the right combination of skills,
+      it is possible to track, analyze, simulate and predict a wide range of real-world
+      and virtual risks and opportunities from the planetary to the hyper-local scale. '
   - icon: ti-thought
     title: Communicate
     content: 'Unlocking the potential of insights depends on  identifying risks and
