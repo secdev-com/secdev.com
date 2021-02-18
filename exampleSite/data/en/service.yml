@@ -3,6 +3,12 @@ service:
   enable: true
   title: What We Do
   service_item:
+  - name: Innovate
+    icon: ti-world
+    content: We work at the intersection of geopolitics and technology leveraging
+      open source, social, cyber and spacial intelligence to develop leading edge
+      methods that harness expert knowledge and advanced data science to forecast
+      disruption and provide early-warning and real-time sense-making for our partners.
   - name: Discover
     icon: ti-world
     content: We quantify risk, distilling sense from disorder and rapidly identify
