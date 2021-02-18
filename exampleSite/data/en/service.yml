@@ -11,10 +11,10 @@ service:
       SecDev is at the leading edge of experimental research into the risks of digitization and the opportunities of the digital economy. In 2021, we are working with the world’s leading technology companies in Central and South Asia to diagnose online harms and disrupt the networks that perpetuate them. Our team of analysts are building now-casting platforms to map the public mood in 193 countries. And SecDev researchers are mapping the physical geography of the digital world to better understand critical vulnerabilities.
   - name: Innovate
     icon: ti-world
-    content: We work at the intersection of geopolitics and technology leveraging
-      open source, social, cyber and spacial intelligence to develop leading edge
-      methods that harness expert knowledge and advanced data science to forecast
-      disruption and provide early-warning and sense-making for our partners.
+    content: |
+      We work at the intersection of geopolitics and technology leveraging open source, social, cyber and spacial intelligence to develop leading edge methods that harness expert knowledge and advanced data science to forecast disruption and provide early-warning and sense-making for our partners.
+
+      SecDev is committed to converting ideas into action. We have developed an arsenal of quantitative tools to better analyze conventional and social media at a granular level. In 2021, the data science team developed a vulnerability index and data visualization to track pandemic preparedness and recovery in cities ranging from Amsterdam and Bristol to Chicago and Los Angeles and helped stand-up a cyber-defence capability to support hospitals, clinics and laboratories to protect themselves from cyber attack.
   - name: Communicate
     icon: ti-world
     content: We believe that knowledge is empowerment that leads to smarter decision
