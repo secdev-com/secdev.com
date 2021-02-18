@@ -25,10 +25,13 @@ service:
       require a complex and adaptive understanding of digital technologies, organizational
       process, and strategic communication. We help our clients navigate uncertainty
       and find opportunity in risk.
-  - name: Graphic Design
+  - name: Speakers
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Evidence-based insight on the big changes underway to global politics,
+      economics and cyberspace. SecDev’s roster includes repeat speakers at TED Global,
+      the World Economic Forum at Davos, Aspen, Singularity University’s Global Summit,
+      the World Governance Forum, the Skoll Summit, CYBERSEC, Smart City Expo and
+      dozens of other venues.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
