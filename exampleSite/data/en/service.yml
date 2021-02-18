@@ -7,9 +7,9 @@ service:
     icon: ti-world
     content: We quantify risk, distilling sense from disorder and rapidly identify
       solutions. We work with public sector, corporate and nonprofit leaders to accelerate
-      digital transformation and strengthen digital resilience. Our business is to
-      enable smarter decisions by helping clients manage risk and unlock opportunity
-      in a digital era.
+      digital transformation and strengthen digital resilience. We enable smarter
+      decisions by helping clients manage risk and unlock opportunity in a digital
+      era.
   - name: Innovate
     icon: ti-world
     content: We work at the intersection of geopolitics and technology leveraging
