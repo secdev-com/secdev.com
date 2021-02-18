@@ -108,7 +108,7 @@ expire_days = 2
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB18hMsqiPH8Y1khatn8GyJv7h-b7V2w_U"
 map_latitude = "45.403327"
-map_longitude = "75.715009"
+map_longitude = "-75.715009"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
