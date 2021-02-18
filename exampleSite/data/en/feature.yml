@@ -20,10 +20,13 @@ feature:
       ranging from the United Nations to the World Bank. Drawing on open and private
       sources and data science, we provide our clients with the deep learning, insight
       and direction they need to profit in a complex world.
-  - title: Easy Customization
+  - title: Diagnostics & strategy
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'Understanding past, present and future threats to our client''s digital
+      assets. We apply an intelligence-led perspective to mapping vulnerabilities
+      in critical infrastructure, banking and pension funds, energy companies and
+      front-line international development organizations. We provide rapid and actionable
+      findings for technical experts and straight-forward insights for C-suite executives. '
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
