@@ -1,7 +1,7 @@
 ---
 about:
-  enable: false
-  title: Our Value
+  enable: true
+  title: About SecDev
   about_item:
   - icon: ti-ruler-pencil
     title: Discovery
