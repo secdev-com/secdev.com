@@ -12,7 +12,7 @@ service:
       assessment  methods with data science,  statistical analysis and spatial science.
       We use open source intelligence, open data, and network data to build  bespoke
       analytics, maps and knowledge products that inform the needs of our clients. '
-  - name: Bespoke Analytics
+  - name: Predictive Analytics
     icon: ti-world
     content: 'We work at the intersection of geopolitical risk and technology leveraging
       open source, social, cyber and spacial intelligence to develop leading edge
