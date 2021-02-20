@@ -12,12 +12,18 @@ service:
       assessment  methods with data science,  statistical analysis and spatial science.
       We use open source intelligence, open data, and network data to build  bespoke
       analytics, maps and knowledge products that inform the needs of our clients. '
-  - name: Innovate
+  - name: Bespoke Analytics
     icon: ti-world
-    content: |
-      We work at the intersection of geopolitics and technology leveraging open source, social, cyber and spacial intelligence to develop leading edge methods that harness expert knowledge and advanced data science to forecast disruption and provide early-warning and sense-making for our partners.
+    content: 'We work at the intersection of geopolitical risk and technology leveraging
+      open source, social, cyber and spacial intelligence to develop leading edge
+      methods that harness expert knowledge and advanced data science to forecast
+      disruption, provide early-warning and predictive sense-making for our partners.
+      Our work is R&D led. We continuously invest into data acquisition and analysis.
+      We actively experiment with statistical and mathematical methods,  machine learning,
+      artificial intelligence. Our goal is constant innovation to bring the best solutions
+      driving real-time insights and predictive analytics to our customers.
 
-      SecDev is committed to converting ideas into action. We have developed an arsenal of quantitative tools to better analyze conventional and social media at a granular level. In 2021, the data science team developed a vulnerability index and data visualization to track pandemic preparedness and recovery in cities ranging from Amsterdam and Bristol to Chicago and Los Angeles and helped stand-up a cyber-defence capability to support hospitals, clinics and laboratories to protect themselves from cyber attack.
+'
   - name: Communicate
     icon: ti-world
     content: "We believe that knowledge is empowerment that leads to smarter decision
