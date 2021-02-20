@@ -3,12 +3,15 @@ service:
   enable: true
   title: What We Do
   service_item:
-  - name: Discover
+  - name: Transforming Data into Intelligence
     icon: ti-world
-    content: |-
-      We quantify risk, distilling sense from disorder and rapidly identify solutions. We work with public sector, corporate and nonprofit leaders to accelerate digital transformation and strengthen digital resilience. We enable smarter decisions by helping clients manage risk and unlock opportunity in a digital era.
-
-      SecDev is at the leading edge of experimental research into the risks of digitization and the opportunities of the digital economy. In 2021, we are working with the world’s leading technology companies in Central and South Asia to diagnose online harms and disrupt the networks that perpetuate them. Our team of analysts are building now-casting platforms to map the public mood in 193 countries. And SecDev researchers are mapping the physical geography of the digital world to better understand critical vulnerabilities.
+    content: 'Defining the parameters of the challenge is the first step to finding
+      solutions. Turning data into actionable intelligence is our business. We use
+      proven methods of discovery built on decades of experience in real world setting.  Our
+      unique approach blends ethnographic, sociological and traditional intelligence
+      assessment  methods with data science,  statistical analysis and spatial science.
+      We use open source intelligence, open data, and network data to build  bespoke
+      analytics, maps and knowledge products that inform the needs of our clients. '
   - name: Innovate
     icon: ti-world
     content: |
