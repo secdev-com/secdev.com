@@ -3,7 +3,7 @@ service:
   enable: true
   title: What We Do
   service_item:
-  - name: Transforming Data into Intelligence
+  - name: Transform Data into Intelligence
     icon: ti-world
     content: 'Defining the parameters of the challenge is the first step to finding
       solutions. Turning data into actionable intelligence is our business. We use
