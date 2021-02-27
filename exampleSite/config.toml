@@ -24,22 +24,12 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "What we do"
+name = "Work"
 pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.en.menu.main]]
-name = "In the news"
+name = "News"
 pre = "#"
 url = "blog"
 weight = 6
