@@ -1,5 +1,5 @@
 baseURL = "https://secdev.com"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
