@@ -8,13 +8,9 @@ about:
     content: how are we geopolitical
   - icon: ti-world
     title: geodigital
-    content: "We design and deploy automated data fusion tools to make sense of the
-      world - both online and off. We map the political, economic, social, environmental
-      and digital layers of a problem to help clients reduce uncertainty and identify
-      opportunity. \n\nOur predictive data analytics are helping cities from Amsterdam
-      to Los Angeles recover from the COVID-19 pandemic. Our digital harm detection
-      systems are shaping the UN responses to on-line harms and disinformation from
-      in South and Central Asia, Latin America and the Middle East.\n"
+    content: 'how are we geodigital
+
+'
   - icon: ti-world
     title: geospatial
     content: |-
