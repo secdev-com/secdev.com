@@ -5,9 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Navigating the Digital World
-  content: Fluent in technology, global in scope and singularly results-oriented.
-    We empower clients to make informed choices that deliver value in the the digital
-    age.
+  content: We anticipate digital risk and design-in digital resilience. Our clients
+    are empowered through data-driven insight and analytics.
   button:
     enable: true
     label: Explore Us
