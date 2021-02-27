@@ -4,7 +4,7 @@ about:
   title: Our Approach
   about_item:
   - icon: ti-world
-    title: data explorers
+    title: geopolitical
     content: "The world is drowning in data. The ability to rapidly distinguish the
       signal from the noise can make the difference between success and failure. We
       apply an ethical approach to quantifying the risks and opportunities of digitization.
@@ -13,7 +13,7 @@ about:
       and financial firms diagnose digital threats, unlock new opportunities, and
       generate value by converting information into actionable intelligence."
   - icon: ti-world
-    title: digital innovators
+    title: geodigital
     content: "We design and deploy automated data fusion tools to make sense of the
       world - both online and off. We map the political, economic, social, environmental
       and digital layers of a problem to help clients reduce uncertainty and identify
@@ -22,7 +22,7 @@ about:
       systems are shaping the UN responses to on-line harms and disinformation from
       in South and Central Asia, Latin America and the Middle East.\n"
   - icon: ti-world
-    title: knowledge brokers
+    title: geospatial
     content: |-
       We are as comfortable speaking in the boardroom of Fortune 500 companies and on the mainstage of the World Economic Forum's annual conference in Davos as with warlords in Afghanistan and wildcat miners in the Amazon. We are TED speakers, columnists and filmmakers, and best selling authors.
 
