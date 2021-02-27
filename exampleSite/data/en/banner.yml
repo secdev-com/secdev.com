@@ -9,5 +9,5 @@ banner:
     are empowered through data-driven insight and analytics.
   button:
     enable: true
-    label: Explore Us
+    label: Explore SecDev
     link: "#services"
