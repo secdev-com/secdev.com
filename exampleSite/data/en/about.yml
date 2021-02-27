@@ -1,10 +1,10 @@
 ---
 about:
   enable: true
-  title: About SecDev
+  title: Our Approach
   about_item:
   - icon: ti-world
-    title: Data Explorers
+    title: data explorers
     content: "The world is swimming in data. Distinguishing signal from noise is more
       important than ever. We apply a ethically informed public health approach to
       quantity the risks of digitization and the opportunities of the digital economy.
