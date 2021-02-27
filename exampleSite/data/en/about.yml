@@ -13,11 +13,14 @@ about:
       diagnose digital threats, unlock new opportunities, and generate value by converting
       information into actionable intelligence."
   - icon: ti-world
-    title: Innovators
-    content: |
-      We invest in AI and data science to develop pathbreaking analytics addressing complex social, political, and environmental challenges from the planetary to the hyper local scale.
-
-      Our predictive data applications are helping city executives in Amsterdam, Los Angeles, Helsinki, and Chicago respond to the COVID pandemic. Our digital harms detection analytics drive UNDP response to pandemic disinformation in South Asia and are informing responses to violent extremism in Central Asia.
+    title: digital innovators
+    content: "We design and deploy automated data fusion tools to make sense of the
+      world - both online and off. We map the political, economic, social, environmental
+      and digital layers of a problem to help clients reduce uncertainty and identify
+      opportunity. \n\nOur predictive data analytics are helping cities from Amsterdam
+      to Los Angeles recover from the COVID-19 pandemic. Our digital harm detection
+      systems are shaping the UN responses to disinformation from Central to South
+      Asia.\n"
   - icon: ti-world
     title: Thought Leaders
     content: "You'll find as at the UN, Davos, World Bank and in the boardroom the
