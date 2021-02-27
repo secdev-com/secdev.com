@@ -14,11 +14,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "#portfolio"
-weight = "1"
-[[Languages.en.menu.main]]
 name = "Approach"
 pre = "#"
 url = "about"
@@ -29,12 +24,17 @@ pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
+name = "Portfolio"
+pre = "#"
+url = "#portfolio"
+weight = "1"
+[[Languages.en.menu.main]]
 name = "News"
 pre = "#"
 url = "blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 pre = "#"
 url = "contact"
 weight = 7
