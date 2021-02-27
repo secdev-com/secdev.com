@@ -5,13 +5,13 @@ service:
   service_item:
   - name: Transform Data into Intelligence
     icon: ti-world
-    content: 'Defining the parameters of the challenge is the first step to finding
-      solutions. Turning data into actionable intelligence is our business. We use
-      proven methods of discovery built on decades of experience in real world setting.  Our
-      unique approach blends ethnographic, sociological and traditional intelligence
-      assessment  methods with data science,  statistical analysis and spatial science.
-      We use open source intelligence, open data, and network data to build  bespoke
-      analytics, maps and knowledge products that inform the needs of our clients. '
+    content: "The world is drowning in data. The ability to rapidly distinguish the
+      signal from the noise can make the difference between success and failure. We
+      apply an ethical approach to quantifying the risks and opportunities of digitization.
+      \n\nOur team of data scientists and AI specialists have helped clients ranging
+      from the OSCE, United Nations and World Bank to leading technology companies
+      and financial firms diagnose digital threats, unlock new opportunities, and
+      generate value by converting information into actionable intelligence."
   - name: Build Predictive Analytics
     icon: ti-world
     content: 'We work at the intersection of geopolitical risk and technology leveraging
