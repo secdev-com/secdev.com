@@ -12,27 +12,15 @@ service:
       from the OSCE, United Nations and World Bank to leading technology companies
       and financial firms diagnose digital threats, unlock new opportunities, and
       generate value by converting information into actionable intelligence."
-  - name: Build Predictive Analytics
+  - name: Building analytical tools
     icon: ti-world
-    content: 'We work at the intersection of geopolitical risk and technology leveraging
-      open source, social, cyber and spacial intelligence to develop leading edge
-      methods that harness expert knowledge and advanced data science to forecast
-      disruption, provide early-warning and predictive sense-making for our partners.
-      Our work is R&D led. We continuously invest into data acquisition and analysis.
-      We actively experiment with statistical and mathematical methods,  machine learning,
-      artificial intelligence. Our goal is constant innovation to bring the best solutions
-      driving real-time insights and predictive analytics to our customers.
+    content: |
+      We design and deploy automated data fusion tools to make sense of the world - both online and off. We map the political, economic, social, environmental and digital layers of a problem to help clients reduce uncertainty and identify opportunity.
 
-'
-  - name: Communicate with Intent
+      Our predictive data analytics are helping cities from Amsterdam to Los Angeles recover from the COVID-19 pandemic. Our digital harm detection systems are shaping the UN responses to on-line harms and disinformation from in South and Central Asia, Latin America and the Middle East.
+  - name: Knowledge brokers
     icon: ti-world
-    content: "We believe that knowledge leads to empowerment and  smarter decision
-      making.  We are regularly in the media,  TED, World Economy Forum, United Nations
-      and in the boardrooms the Fortune 500. Superior analytical and communications
-      skills are what sets us apart.\n\nIn 2021, the team will speak on issues ranging
-      from smart cities, social media platform governance and the digital economy
-      to pandemic preparedness and climate action at the world’s top venues ranging
-      from Singularity to the World Economic Forum.  SecDev also leads private and
-      curated briefings for C-suite  executives and corporate board members in partnership
-      with leading global experts in the digital rights, defence, development, intelligence
-      and technology sectors.  "
+    content: |-
+      We are as comfortable speaking in the boardroom of Fortune 500 companies and on the mainstage of the World Economic Forum’s annual conference in Davos as with warlords in Afghanistan and wildcat miners in the Amazon. We are TED speakers, columnists and filmmakers, and best selling authors.
+
+      Our team delivers executive talks, training and mentorship to executives from leading tech companies, international organizations, and global cities. We help our clients diagnose digital risks, unlock new opportunities, discover value in data and build resilience
