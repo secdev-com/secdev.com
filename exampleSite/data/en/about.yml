@@ -5,13 +5,7 @@ about:
   about_item:
   - icon: ti-world
     title: geopolitical
-    content: "The world is drowning in data. The ability to rapidly distinguish the
-      signal from the noise can make the difference between success and failure. We
-      apply an ethical approach to quantifying the risks and opportunities of digitization.
-      \n\nOur team of data scientists and AI specialists have helped clients ranging
-      from the OSCE, United Nations and World Bank to leading technology companies
-      and financial firms diagnose digital threats, unlock new opportunities, and
-      generate value by converting information into actionable intelligence."
+    content: how are we geopolitical
   - icon: ti-world
     title: geodigital
     content: "We design and deploy automated data fusion tools to make sense of the
