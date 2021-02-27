@@ -24,10 +24,8 @@ feature:
       to enable raise sense-making and solutions.
   - title: Ethical approach
     icon: ti-panel
-    content: Ethical principals guide our work. We apply a public heath approach that
-      avoids causing intentional harm. Our work focuses on measurement and identifying
-      underlying risk factors. We develop scalable solutions that respect privacy
-      and enhance protective factors.
+    content: Ethical principals guide our work. We develop scalable solutions that
+      respect privacy and enhance protective factors.
   - title: Applied Intelligence
     icon: ti-stats-up
     content: We take a practical approach to the potential of artificial intelligence
