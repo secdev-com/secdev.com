@@ -3,7 +3,7 @@ service:
   enable: true
   title: What We Do
   service_item:
-  - name: Transform Data into Intelligence
+  - name: Data into intelligence
     icon: ti-world
     content: "The world is drowning in data. The ability to rapidly distinguish the
       signal from the noise can make the difference between success and failure. We
