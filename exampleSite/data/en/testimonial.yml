@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: The Examiner, from "'GhostNet'invasion requires a global response"
-    image: ''
-    image_webp: ''
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
     date: ''
     content: '"The Canadian who busted the GhostNet"'
   - name: Bell Canada
