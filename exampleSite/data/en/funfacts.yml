@@ -1,6 +1,6 @@
 ---
 funfacts:
-  enable: true
+  enable: false
   bg_image: "/images/purple-band-1.jpg"
   bg_image_webp: "/images/purple-band-1.webp"
   counter_item:
