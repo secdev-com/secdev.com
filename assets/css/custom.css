@@ -1,4 +1,16 @@
 /* Style the video: 100% width and height to cover the entire window */
+
+body {
+  background-color: #353b43;
+  font-family: Helvetica, sans-serif;
+  color: #737f8a;
+  -webkit-font-smoothing: antialiased;
+}
+
+.p {
+  font-family: Helvetica, sans-serif;
+} 
+
 #bgVideo {
   position: relative;
   top: 50%;

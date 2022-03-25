@@ -1,13 +1,13 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: images/backgrounds/SecDevDigital.mp4
   bg_image: images/backgrounds/hero-area.jpg
-  icon: ''
-  title: Navigating the Digital World
-  content: We anticipate digital risk and design-in digital resilience. Our clients
-    are empowered through data-driven insight and analytics.
+  icon: images/logo-only.png
+  title: SecDev
+  content: We solve wicked problems through advanced social science and artificial intelligence. We diagnose, innovate, and accelerate data-driven solutions to create value.
+  tagline: Geopolitical. Geodigital. Geospatial.
   button:
     enable: true
-    label: Explore SecDev
-    link: "#services"
+    label: Contact Us
+    link: "#contact"
