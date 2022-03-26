@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/SecDevDigital.mp4
-  bg_image: images/backgrounds/hero-area.jpg
-  icon: images/logo-only.png
+  bg_image: images/backgrounds/SecDevDigital.png
+  icon: images/logo-half.png
   title: SecDev
   content: We solve wicked problems through advanced social science and artificial intelligence. We diagnose, innovate, and accelerate data-driven solutions to create value.
   tagline: Geopolitical. Geodigital. Geospatial.
