@@ -13,19 +13,18 @@ body {
 }
 
 p {
-  font-family: "Helvetica-Neue", sans-serif;
+  font-family: "HelveticaNeue-Light","Helvetica", sans-serif;
 }
 
 .content {
   text-align: justify;
+  font-weight: lighter;
+  font-size: medium;
 }
 
 .tagline {
-  font-family: "HelveticaNeue-Bold", sans-serif;
-}
-
-.logo {
-  size: ;
+  font-family: "Helvetica-Bold","HelveticaNeue-Bold", sans-serif;
+  font-weight: bold;
 }
 
 #bgVideo {
