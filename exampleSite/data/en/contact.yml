@@ -14,7 +14,7 @@ contact:
     info: 'Email: info [at] secdev.com'
   contact_form:
     enable: true
-    form_action: "https://formspree.io/contact@secdev.com"
+    form_action: "https://formspree.io/f/myyodkdl"
     name: Your Name
     email: Your Email
     subject: Subject
