@@ -7,9 +7,26 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-.p {
-  font-family: Helvetica, sans-serif;
-} 
+.invisible {
+  clear: both;
+  visibility: hidden;
+}
+
+p {
+  font-family: "Helvetica-Neue", sans-serif;
+}
+
+.content {
+  text-align: justify;
+}
+
+.tagline {
+  font-family: "HelveticaNeue-Bold", sans-serif;
+}
+
+.logo {
+  size: ;
+}
 
 #bgVideo {
   position: relative;

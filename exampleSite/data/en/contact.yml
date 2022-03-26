@@ -7,14 +7,14 @@ contact:
     Canada on unceded Algonquin land. Call us or schedule a visit in person or online. '
   contact_list:
   - icon: ti-location-pin
-    info: 950 Gladstone, Ottawa, Ontarion CANADA K1Y 3E6
+    info: 950 Gladstone, Ottawa, Ontario CANADA K1Y 3E6
   - icon: ti-mobile
     info: 'Phone: +1 613 755 4007'
   - icon: ti-email
     info: 'Email: info [at] secdev.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "https://formspree.io/contact@secdev.com"
     name: Your Name
     email: Your Email
     subject: Subject

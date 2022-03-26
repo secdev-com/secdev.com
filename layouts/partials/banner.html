@@ -17,12 +17,12 @@
 			<i class="{{ .icon }}"></i>
 			
 		</div>-->
-		<img src="{{ .icon }}">
+		<img class="logo" src="{{ .icon }}">
 		{{ end }}
 		<h1>{{ .title | markdownify }}</h1>
-		<p>{{ .content | markdownify }}</p>
-
-		<p>{{ .tagline | markdownify }}</p>
+		<p class="content">{{ .content | markdownify }}</p>
+		<hr class="invisible">
+		<p class="tagline">{{ .tagline | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
